@@ -1,0 +1,9 @@
+baseURL = "https://lilyco42-official.github.io/"
+languageCode = "zh-cn"
+title = "Lilyco42 DevLog"
+theme = "stack"
+[params.sidebar]
+subtitle = "开发日志型博客"
+avatar = "img/avatar.png"
+[params]
+mainSections = ["post", "devlog"]
