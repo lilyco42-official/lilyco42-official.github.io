@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lilyco42-official.github.io/categories/</loc>
     <lastmod>2026-02-24T15:49:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/devlog/</loc>
+    <loc>https://lilyco42-official.github.io/devlog/</loc>
     <lastmod>2026-02-24T15:49:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://lilyco42-official.github.io/tags/hugo/</loc>
     <lastmod>2026-02-24T15:49:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/devlog/2026-02-24-hugo-blog-start/</loc>
+    <loc>https://lilyco42-official.github.io/devlog/2026-02-24-hugo-blog-start/</loc>
     <lastmod>2026-02-24T15:49:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lilyco42-official.github.io/</loc>
     <lastmod>2026-02-24T15:49:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lilyco42-official.github.io/tags/</loc>
     <lastmod>2026-02-24T15:49:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://lilyco42-official.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2026-02-24T15:49:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
+    <loc>https://lilyco42-official.github.io/categories/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2026-02-24T15:49:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
+    <loc>https://lilyco42-official.github.io/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2026-02-24T15:49:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://lilyco42-official.github.io/page/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/about/</loc>
+    <loc>https://lilyco42-official.github.io/page/about/</loc>
   </url>
 </urlset>

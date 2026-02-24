@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Lilyco42 DevLog</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://lilyco42-official.github.io/tags/</link>
         <description>Recent content in Tags on Lilyco42 DevLog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 24 Feb 2026 15:49:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Feb 2026 15:49:17 +0800</lastBuildDate><atom:link href="https://lilyco42-official.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Hugo</title>
-            <link>http://localhost:1313/tags/hugo/</link>
+            <link>https://lilyco42-official.github.io/tags/hugo/</link>
             <pubDate>Tue, 24 Feb 2026 15:49:17 +0800</pubDate>
-            <guid>http://localhost:1313/tags/hugo/</guid>
+            <guid>https://lilyco42-official.github.io/tags/hugo/</guid>
             <description></description>
         </item><item>
             <title>博客搭建</title>
-            <link>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+            <link>https://lilyco42-official.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
             <pubDate>Tue, 24 Feb 2026 15:49:17 +0800</pubDate>
-            <guid>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+            <guid>https://lilyco42-official.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
             <description></description>
         </item><item>
             <title>开发日志</title>
-            <link>http://localhost:1313/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</link>
+            <link>https://lilyco42-official.github.io/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</link>
             <pubDate>Tue, 24 Feb 2026 15:49:17 +0800</pubDate>
-            <guid>http://localhost:1313/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</guid>
+            <guid>https://lilyco42-official.github.io/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</guid>
             <description></description>
         </item></channel>
 </rss>

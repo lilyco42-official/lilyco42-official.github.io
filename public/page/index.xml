@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Lilyco42 DevLog</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://lilyco42-official.github.io/page/</link>
         <description>Recent content in Pages on Lilyco42 DevLog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>zh-cn</language><atom:link href="https://lilyco42-official.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>关于我</title>
-            <link>http://localhost:1313/page/about/</link>
+            <link>https://lilyco42-official.github.io/page/about/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/page/about/</guid>
+            <guid>https://lilyco42-official.github.io/page/about/</guid>
             <description>&lt;p&gt;🌸 Lilyco42&lt;/p&gt;&#xA;&lt;p&gt;后端 / 全栈开发学习中&lt;/p&gt;&#xA;&lt;p&gt;正在构建：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Elysia Image Board&lt;/li&gt;&#xA;&lt;li&gt;Bun 全栈实践&lt;/li&gt;&#xA;&lt;li&gt;个人图站系统&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;技术栈：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bun&lt;/li&gt;&#xA;&lt;li&gt;Elysia&lt;/li&gt;&#xA;&lt;li&gt;SQLite&lt;/li&gt;&#xA;&lt;li&gt;Hugo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
         </item></channel>
 </rss>
