@@ -64,18 +64,6 @@ draft: false
 tags: ["Elysia", "Bun", "开发日志"]
 ---
 
-## 🚀 今日完成
-
-- 初始化 Elysia 项目
-- 设计数据库结构
-
-## 🧠 架构思考
-
-为什么选择 SQLite 而不是 PostgreSQL？
-
-## 📌 明日计划
-
-实现用户注册登录
 
 保存后刷新网页 ✅
 
@@ -94,11 +82,11 @@ git push
 
 https://lilyco42-official.github.io
 
-你的博客就上线了 🎉
+博客就上线了 🎉
 
-🧠 专门为你定制的开发日志写作流
 
-以后你每天只要：
+
+以后只要：
 
 ① 启动博客
 hugo server -D
@@ -111,57 +99,3 @@ git add .
 git commit -m "day02"
 git push
 
-就结束了 ✅
-
-🌸 给你一个超适合你的栏目结构
-
-因为你在做：
-
-图站
-
-后端架构成长
-
-Bun 学习
-
-我建议你这样分类：
-
-开发日志
-Bun 学习
-后端架构
-项目复盘
-⭐ 下一步我们可以把博客变成“你的技术品牌站”
-
-可以帮你加：
-
-首页个人介绍
-
-项目展示区（Elysia Image Board）
-
-GitHub 卡片
-
-深色模式优化
-
-评论系统
-
-搜索
-
-标签系统
-
-全部 10 分钟级完成。
-
-🎯 现在我们先做一件事
-
-你先执行这三条命令：
-
-hugo new site . --force
-git submodule add https://github.com/CaiJimmy/hugo-theme-stack.git themes/stack
-hugo server -D
-
-然后把终端输出截图 / 贴给我
-我带你继续下一步 🌸
-
-我们今天可以把：
-
-🏆 你的开发日志博客正式上线
-
-一次走完 😏
