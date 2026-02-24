@@ -1,16 +1,52 @@
-deploy:
-  needs: build
-  runs-on: ubuntu-latest
+name: Deploy Hugo site to Pages
 
-  permissions:
-    pages: write
-    id-token: write
+on:
+  push:
+    branches: ["main"]
 
-  environment:
-    name: github-pages   # ⭐ 必须有这个
-    url: ${{ steps.deployment.outputs.page_url }}
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
-  steps:
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
